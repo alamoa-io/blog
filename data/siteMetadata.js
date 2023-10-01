@@ -7,12 +7,12 @@ const siteMetadata = {
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://blog.alamoa.io',
-  siteRepo: '',
+  siteRepo: 'https://github.com/alamoa-io/blog/',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
   mastodon: '',
   email: 'admin@jyugon.com',
-  github: '',
+  github: 'https://github.com/alamoa-io/blog/',
   twitter: 'https://twitter.com/sakaijun',
   facebook: '',
   youtube: 'https://youtube.com/@engineer-jun',
@@ -69,7 +69,7 @@ const siteMetadata = {
       // example: https://giscus.app/themes/custom_example.css
       themeURL: '',
       // This corresponds to the `data-lang="en"` in giscus's configurations
-      lang: 'en',
+      lang: 'jp',
     },
   },
   search: {
