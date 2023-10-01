@@ -15,7 +15,7 @@ const siteMetadata = {
   github: '',
   twitter: 'https://twitter.com/sakaijun',
   facebook: '',
-  youtube: '',
+  youtube: 'https://youtube.com/@engineer-jun',
   linkedin: '',
   locale: 'en-US',
   analytics: {
