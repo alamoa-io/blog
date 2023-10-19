@@ -1,12 +1,12 @@
 ---
-title: 'Hero ImagesをAIを利用して生成しました。'
+title: 'AIを利用してヒーローイメージを生成しました。'
 date: '2023-10-17'
 lastmod: '2023-10-17'
 tags: ['AI', '画像生成', 'ヒーローイメージ']
 draft: false
 summary: '最近の技術進歩により、AIを活用してヒーローイメージの生成を試みました。その過程と結果を共有します。'
 images: ['/static/images/projects/ai_hero_image.png']
-authors: ['jsakai']
+authors: ['sellmann']
 ---
 
 ## AIを利用したヒーローイメージの生成
@@ -68,14 +68,14 @@ authors: ['jsakai']
 **2-1. 画像生成**: 画像生成を繰り返し理想の画像を目指します。
 
 
-![Tech-inspired seascape with a central dugong in deep teal.](image1.png)
+![Tech-inspired seascape with a central dugong in deep teal. text](image1.png)
 >プロンプト:A high-resolution hero image for a company website, with a size of 1920x1080 pixels and an aspect ratio of 16:9, bright and engaging, technology, dugong, ocean, #22A8B6 A deep teal color, evoking a sense of security and professionalism --v 5.1
 
 
-![Tech-ocean blend with dugong in bright deep teal, 8k resolution.](image2.png)
+![Tech-ocean blend with dugong in bright deep teal, 8k resolution.](image2-1.png)
 >プロンプト:technology, dugong, ocean, #22A8B6 A deep teal color, bright and engaging, evoking a sense of security and professionalism, 8k resolution 16:9, --v 5.1
 
-思うように生成できなかったので、[Midjourney showcase](https://www.midjourney.com/showcase/recent/)を見てインスピレーションを受ける。
+生成の過程で期待通りの結果を得られなかったため[Midjourney showcase](https://www.midjourney.com/showcase/recent/)を見て、インスピレーションを受けました。
 
 
 ![Woman on a beach in chrome reflections and flat art style.](image3.png)
@@ -88,12 +88,10 @@ authors: ['jsakai']
 Midjournyの設定を変更し、生成を続けます。
 ![Generated design from Midjourney](image16.png)
 
-
-![8k illustration: figure with laptop against ocean and sky.](image5.png)
+![8k illustration: figure with laptop against ocean and sky.](image8-1.png)
 >プロンプト:8k beauty holding laptop. Created a cartoon illustrated poster with ocean background, vast blue sky, soft pixel colors, studio lighting, flat illustrations, minimalist lines, ultra-high quality, ultra-high definition, 8k, vivid strokes --ar 16:9 --niji 5
 
-画像の方向性を再考するために[10 Top Website Hero Images and Best Practices to Create Your Own](https://colibriwp.com/blog/hero-websites/)を読みました。
-画像生成を繰り返します。
+画像の方向性を再考するために[10 Top Website Hero Images and Best Practices to Create Your Own](https://colibriwp.com/blog/hero-websites/)を参照いたしました。これを基に、画像生成のアプローチを再検討して進めます。
 
 ![Girl with computer against dark San Francisco, candid style.](image6.png)
 >プロンプト:girl with computer, dark city front, san francisco, in style of candid portraiture, studyblr, adafruit, sensory experience, grid formation, website, soft focus lens , visual remix style, sabatier filter, innovative innovative page design, anni albers--ar 16:9 --v 5.2
@@ -101,7 +99,7 @@ Midjournyの設定を変更し、生成を続けます。
 ![Elegant Japanese IT engineer programming on a laptop with another screen showing code, lit softly.](image7.png)
 >プロンプト:A beautiful Japanese female IT engineer, as stunning as a celebrity, programming an application on a laptop. Another screen is displaying lines of programming code. Lighting: The scene is illuminated by a soft, ambient light that evenly spreads across the engineer's face and the surrounding workspace. The lighting creates a modern and sleek atmosphere, highlighting the engineer's elegance and technical expertise. The illustration captures the IT engineer's poise and intelligence, as she focuses on programming the application. The additional screen displaying lines of code adds depth and complexity to the artwork, symbolizing the engineer's proficiency in software development. Reference: Real - life coding environments, laptops, and renowned individuals known for their beauty and talent --ar 16:9 --v 5.2 
 
-![Beautiful Japanese IT engineer coding on a laptop, soft ambient lighting.](image8.png)
+![Beautiful Japanese IT engineer coding on a laptop, soft ambient lighting.](image8-2.png)
 >プロンプト:A beautiful Japanese female IT engineer, as stunning as a celebrity, programming an application on a laptop. Another screen is displaying lines of programming code. Lighting: The scene is illuminated by a soft, ambient light that evenly spreads across the engineer's face and the surrounding workspace. --ar 16:9 --niji 5
 
 ![Japanese female IT engineer programming, second screen with code, softly illuminated.](image9.png)
@@ -114,8 +112,7 @@ Midjournyの設定を変更し、生成を続けます。
 Seedは、Add reaction、Envelopの絵文字をクリックで取得できます。
 
 ![Generated design from Seed.](image17.png)
-
-![Japanese IT engineer with laptop, code on background screen, softly lit. ](image11.png)
+![Japanese IT engineer with laptop, code on background screen, softly lit.](image11.png)
 >プロンプト:A beautiful Japanese female IT engineer, as stunning as a celebrity, programming an application on a laptop. Another screen is displaying lines of programming code. Lighting: The scene is illuminated by a soft, ambient light that evenly spreads across the engineer's face and the surrounding workspace.
 seed 1591934983
 
@@ -135,8 +132,7 @@ seed 1591934983
 良さそうな画像をハイスケール。
 完成です。
 
-![High-resolution image of a generated design](image15.png)
-
+![Alt textHigh-resolution image of a generated design](image15.png)
 
 ### 結果と感想
 
