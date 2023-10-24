@@ -6,7 +6,7 @@ tags: ['AI', '画像生成', 'ヒーローイメージ']
 draft: false
 summary: '最近の技術進歩により、AIを活用してヒーローイメージの生成を試みました。その過程と結果を共有します。'
 images: ['/static/images/projects/ai_hero_image.png']
-authors: ['jsakai']
+authors: ['sellmann']
 ---
 
 ## AIを利用したヒーローイメージの生成
@@ -75,7 +75,7 @@ authors: ['jsakai']
 ![Tech-ocean blend with dugong in bright deep teal, 8k resolution.](image2.png)
 >プロンプト:technology, dugong, ocean, #22A8B6 A deep teal color, bright and engaging, evoking a sense of security and professionalism, 8k resolution 16:9, --v 5.1
 
-思うように生成できなかったので、[Midjourney showcase](https://www.midjourney.com/showcase/recent/)を見てインスピレーションを受ける。
+生成の過程で期待通りの結果を得られなかったため[Midjourney showcase](https://www.midjourney.com/showcase/recent/)を見て、インスピレーションを受けました。
 
 
 ![Woman on a beach in chrome reflections and flat art style.](image3.png)
@@ -92,8 +92,8 @@ Midjournyの設定を変更し、生成を続けます。
 ![8k illustration: figure with laptop against ocean and sky.](image5.png)
 >プロンプト:8k beauty holding laptop. Created a cartoon illustrated poster with ocean background, vast blue sky, soft pixel colors, studio lighting, flat illustrations, minimalist lines, ultra-high quality, ultra-high definition, 8k, vivid strokes --ar 16:9 --niji 5
 
-画像の方向性を再考するために[10 Top Website Hero Images and Best Practices to Create Your Own](https://colibriwp.com/blog/hero-websites/)を読みました。
-画像生成を繰り返します。
+画像の方向性を再考するために[10 Top Website Hero Images and Best Practices to Create Your Own](https://colibriwp.com/blog/hero-websites/)を参照しました。
+これを基に、画像生成のアプローチを再検討して進めます。
 
 ![Girl with computer against dark San Francisco, candid style.](image6.png)
 >プロンプト:girl with computer, dark city front, san francisco, in style of candid portraiture, studyblr, adafruit, sensory experience, grid formation, website, soft focus lens , visual remix style, sabatier filter, innovative innovative page design, anni albers--ar 16:9 --v 5.2
